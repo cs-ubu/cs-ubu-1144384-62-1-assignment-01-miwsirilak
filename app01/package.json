@@ -1,0 +1,16 @@
+{
+  "name": "app01",
+  "version": "1.0.0",
+  "description": "โครงงานสำหรับการบ้านแรกในวิชา1144384",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "60114440316",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request": "^2.48.1",
+    "request": "^2.88.0"
+  }
+}
